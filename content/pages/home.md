@@ -1,16 +1,16 @@
 ---
-template: HomePage
+template: Forsiden
 slug: ''
-title: Yellowcake
+title: Gentofte Skiklub
 featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
-subtitle: ' Welcome to the ultimate Gatsby and Netlify starter project.'
+subtitle: ' Gentofte Skiklub har til formål at fremme interessen for skisport: alpint, langrend, snowboard og telemarksk og windsurfing. Vinteraktiviteter er primært skigymnastik, snearrangementer i Gentofte og omegn, samt film og orienteringsaften. Desuden kan man deltage på de mange kreds- og forbundsture med danske ski-instruktører, der findes. Klubtur til Valthorens og St. Anton.  Sommeraktiviteter er windsurfing, løbetræning, samt udendørs gymnastik, græsski og rulleski. Gentofte Skiklub er medlem af Dansk Skiforbund og en af de ældste skiklubber i Danmark oprettet i 1967'
 meta:
-  description: This is a meta description.
-  title: The Ultimate Gatsby Starter
+  description: Gentofte Skiklub har til formål at fremme interessen for skisport alpint, langrend, snowboard og telemarksk og windsurfing. Vinteraktiviteter er primært skigymnastik, snearrangementer i Gentofte og omegn.
+  title: Gentofteskiklub
 ---
-Yellowcake is an opinionated starter project created by [Thrive Digital](https://thriveweb.com.au/) a [Gold Coast Web Design](https://thriveweb.com.au/) studio. to help you create lightening fast websites with [Gatsby](https://gatsbyjs.org) and [Netlify CMS](https://netlifycms.org).
+Gentofte Skiklub har til formål at fremme interessen for skisport: alpint, langrend, snowboard og telemarksk og windsurfing. Vinteraktiviteter er primært skigymnastik, snearrangementer i Gentofte og omegn, samt film og orienteringsaften. Desuden kan man deltage på de mange kreds- og forbundsture med danske ski-instruktører, der findes. Klubtur til Valthorens og St. Anton.  Sommeraktiviteter er windsurfing, løbetræning, samt udendørs gymnastik, græsski og rulleski. Gentofte Skiklub er medlem af Dansk Skiforbund og en af de ældste skiklubber i Danmark oprettet i 1967.
 
-View the [project overview](https://thriveweb.com.au/the-lab/yellowcake-gatsby-react-js-starter-project/) and the [docs](https://github.com/thriveweb/yellowcake/blob/master/README.md).
+Du er altid velkommen til at stille spørgsmål til : gentofteskiklub@gmail.com
 
 # Features
 
