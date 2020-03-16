@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e1a3fe56-8fbb-4604-af6a-35414ff2ccd3/deploy-status)](https://app.netlify.com/sites/gentofteskiklub/deploys)
+
 # Yellowcake
 
 [![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
