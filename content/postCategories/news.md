@@ -1,8 +1,7 @@
 ---
 template: BlogIndex
-title: News
+title: Nyhedder
 subtitle: ''
-featuredImage: >-
-  https://ucarecdn.com/db0b1431-8739-426f-970d-8a80eacf02ef/-/preview/-/rotate/270/
+featuredImage: 'https://ucarecdn.com/51c69b71-4669-401b-b4f5-d9965fde3f3c/'
 ---
 
