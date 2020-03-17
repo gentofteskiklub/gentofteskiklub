@@ -1,7 +1,7 @@
 ---
 template: SinglePost
 title: Hockey
-status: Featured / Published
+status: Published
 date: '2018-03-27'
 featuredImage: 'https://ucarecdn.com/e626b790-00f0-4395-90d2-300b63b2637b/'
 excerpt: >
