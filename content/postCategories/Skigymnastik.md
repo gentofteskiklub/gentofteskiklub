@@ -2,6 +2,6 @@
 template: BlogIndex
 title: Ski-Gymnastik
 subtitle: ''
-featuredImage: 'https://ucarecdn.com/83a3c73d-f234-4086-9fad-cee3a9626230/'
+featuredImage: 'https://ucarecdn.com/4961c7e8-ea0a-4c9f-bd9a-b2703d520aff/'
 ---
 
