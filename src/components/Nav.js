@@ -49,7 +49,7 @@ export class Navigation extends Component {
             <Logo />
           </Link>
           <div className="Nav--Links">
-            <NavLink to="/">Forside</NavLink>
+            <NavLink to="/">Gentofte Skiklub</NavLink>
             <NavLink to="/components/">Components</NavLink>
             <div
               className={`Nav--Group ${
@@ -83,8 +83,12 @@ export class Navigation extends Component {
                 </div>
               </span>
             </div>
-            <NavLink to="/default/">Default</NavLink>
-            <NavLink to="/contact/">Contact</NavLink>
+            <NavLink to="/gymnastik/">Ski Gymnastik</NavLink>
+            <NavLink to="/windsurfing/">Windsurfing</NavLink>
+            <NavLink to="/gski/">Græs ski</NavLink>
+            <NavLink to="/skiliften/">Skiliften</NavLink>
+            <NavLink to="/contact/">Kontakt</NavLink>
+            <NavLink to="/links/">Links</NavLink>
           </div>
           <button
             className="Button-blank Nav--MenuButton"
