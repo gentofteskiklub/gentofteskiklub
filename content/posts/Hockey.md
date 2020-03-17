@@ -3,9 +3,28 @@ template: SinglePost
 title: Hockey
 status: Featured / Published
 date: '2018-03-27'
-featuredImage: 'https://ucarecdn.com/94633346-778b-4474-8039-b18280ec73a3/'
-excerpt: >-
+featuredImage: 'https://ucarecdn.com/e626b790-00f0-4395-90d2-300b63b2637b/'
+excerpt: >
+  Leg dig til en skifinform
 
+
+  Det spiller vi fra kl.19,15 frem til kl.20,- hver mandag i Kildegårdsskolens
+  gymnastiksal.
+
+
+  Der spilles alle mod alle i puljerne.
+
+
+  En kamp varer 6 min effektiv
+
+
+  De to bedste hold i hver pulje går videre til finalestævnet. I tilfælde af
+  pointlighed er antal overskydende mål afgørende herefter antal scorede mål og
+  endelig afgørelse på straffeslag.
+
+
+  Et hold består af 3 spillere samt højest 1 udskiftningsspiller. Ind- og
+  udskiftning skal foregå i umiddelbar nærhed af hinanden.
 categories:
   - category: Ski-Gymnastik
 meta:
