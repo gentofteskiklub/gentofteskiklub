@@ -29,9 +29,9 @@ categories:
   - category: Ski-Gymnastik
 meta:
   canonicalLink: ''
-  description: test meta description
+  description: Hockey and floorball
   noindex: false
-  title: test meta title
+  title: Hockey
 ---
 Leg dig til en skifinform
 
