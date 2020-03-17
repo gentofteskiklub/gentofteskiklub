@@ -2,17 +2,17 @@
 template: ContactPage
 slug: skiliften
 title: Skiliften på Borrebakken
-featuredImage: https://ucarecdn.com/e22a858a-b420-47af-99f6-ed54b6860333/
-address: 'Borrebakken Park, Lyngby'
-phone: +45 4032 6078
-email: gentofteskiklub@gmail.com
-locations:
-  - lat: '12.5059623'
-    lng: '55.7897714'
-    mapLink: 'https://www.google.com/maps/place/Borrebakken+Park/@55.7897714,12.5059623,17z/data=!4m12!1m6!3m5!1s0x46524e6023e44b69:0xca65501ebacb9603!2sBorrebakken+Park!8m2!3d55.7897684!4d12.5081562!3m4!1s0x46524e6023e44b69:0xca65501ebacb9603!8m2!3d55.7897684!4d12.5081562'
+featuredImage: >-
+  https://ucarecdn.com/7c7afc31-de40-44a3-ae89-f266ca698305/-/crop/1732x1181/0,1128/-/preview/-/enhance/58/-/grayscale/
 meta:
-  description: This is a meta description.
-  title: Contact Page
+  description: >
+    I forbindelsen med skiliften og den forventede snevinter, der allerede
+    banker på døren, vil vi sætte den op, hvis mindst 4 medlemmer er
+    interesseret i at hjælpe til med at opstille den. Det er ikke ukompliceret.
+    For interesserede laver vi en e-mailliste.. Henvendelse med mail: til
+    gentofteskiklub@gmail.com . Se på vores hjemmeside om skiliften er opsat på
+    Borrebakken (Grandåsen bag ved DTU) og på hvilket tidspunkt.
+  title: Skiliften på borrebakken
 ---
 
 I forbindelsen med skiliften og den forventede snevinter, der allerede banker på døren, vil vi sætte den op, hvis mindst 4 medlemmer er interesseret i at hjælpe til med at opstille den. Det er ikke ukompliceret. For interesserede laver vi en e-mailliste.. Henvendelse med  mail: til gentofteskiklub@gmail.com . Se på vores hjemmeside om skiliften er opsat på Borrebakken  (Grandåsen bag ved DTU) og på hvilket tidspunkt.
