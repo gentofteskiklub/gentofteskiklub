@@ -2,10 +2,17 @@
 template: HomePage
 slug: ''
 title: Gentofte Skiklub
-featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
-subtitle: 'har til formål at fremme interessen for skisport: alpint, langrend, snowboard og telemarksk og windsurfing. Vinteraktiviteter er primært skigymnastik, snearrangementer i Gentofte og omegn, samt film og orienteringsaften'
+featuredImage: 'https://ucarecdn.com/7b3aaff7-38e2-4e57-ab2c-7f2c9ead8083/'
+subtitle: >-
+  har til formål at fremme interessen for skisport: alpint, langrend, snowboard
+  og telemarksk og windsurfing. Vinteraktiviteter er primært skigymnastik,
+  snearrangementer i Gentofte og omegn, samt film og orienteringsaften
 meta:
-  description: Gentofte Skiklub har til formål at fremme interessen for skisport alpint, langrend, snowboard og telemarksk og windsurfing. Vinteraktiviteter er primært skigymnastik, snearrangementer i Gentofte og omegn, samt film og orienteringsaften.
+  description: >-
+    Gentofte Skiklub har til formål at fremme interessen for skisport alpint,
+    langrend, snowboard og telemarksk og windsurfing. Vinteraktiviteter er
+    primært skigymnastik, snearrangementer i Gentofte og omegn, samt film og
+    orienteringsaften.
   title: Gentofte Skikblub
 ---
 
