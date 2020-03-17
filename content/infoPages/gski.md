@@ -1,4 +1,3 @@
-
 ---
 template: DefaultPage
 slug: gski
