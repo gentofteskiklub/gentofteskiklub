@@ -3,9 +3,10 @@ template: SinglePost
 title: Oversigt oversigt over Ski gymnastik 2019/20
 status: Featured / Published
 date: '2019-09-25'
-featuredImage: 'https://ucarecdn.com/94633346-778b-4474-8039-b18280ec73a3/'
+featuredImage: 'https://ucarecdn.com/f4bf5b35-a9d1-4c46-9a3f-4332f3be2945/'
 excerpt: >-
-
+  Oversigt ski-gymnastikdage: Mandag kl. 18-19 på Kildegårdsskolen, Kildegårsvej
+  87, 2900 Hellerup
 categories:
   - category: Ski-Gymnastik
 ---
