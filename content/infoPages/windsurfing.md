@@ -2,8 +2,7 @@
 template: DefaultPage
 slug: windsurfing
 title: Windsurfing i Gentofte Skiklub
-featuredImage: 'https://ucarecdn.com/df0dc650-6938-412f-aefb-2019d2349e13/'
-subtitle: Læs om Windsurfing træning og meetup på Rhodos.
+featuredImage: 'https://ucarecdn.com/b55bf3c6-55fb-4ec3-9378-ce51d34233c4/'
 ---
 ## Winsurfing Træning
 Hvert forår fra maj til sommerferien er det muligt at få begyndertræning i Gentofte Skiklub.
