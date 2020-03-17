@@ -1,9 +1,8 @@
 ---
 template: DefaultPage
 slug: gymnastik
-title: Græsski i gentofte skiklub
-featuredImage: https://ucarecdn.com/7ec2ff8c-5ef7-4dd8-b551-baa44d114cc3/
-subtitle: Det er muligt at lære at stå på græsski i gentofte skiklub.
+title: Ski Gynastik
+featuredImage: 'https://ucarecdn.com/acbff77f-0717-49f7-9dd1-39539f157ecf/'
 meta:
   description: Græsski i gentofte skiklub
   title: Græsski i gentofte skiklub
