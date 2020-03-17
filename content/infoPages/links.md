@@ -2,8 +2,7 @@
 template: DefaultPage
 slug: links
 title: COLD LINKS TIL HOTTE WEBSIDER
-featuredImage: https://ucarecdn.com/7ec2ff8c-5ef7-4dd8-b551-baa44d114cc3/
-subtitle: 
+featuredImage: 'https://ucarecdn.com/d7358d87-5760-40a3-ac58-7459d8b2eceb/'
 meta:
   description: Links fra Gentofte Skiklub
   title: Alle vores links
