@@ -3,7 +3,7 @@ template: SinglePost
 title: Skibindingstest
 status: Published
 date: '2020-03-23'
-featuredImage: 'https://ucarecdn.com/157877ea-a2cb-49b6-8130-768fbe1a60a7/'
+featuredImage: 'https://ucarecdn.com/ecfe3d2b-ed4f-42b1-8aa1-bad7794a3b53/'
 excerpt: Ski bindingtesten
 categories:
   - category: Skiferie Tips
