@@ -9,11 +9,6 @@ excerpt: >-
   afprøve.Image
 categories:
   - category: Ski-Gymnastik
-meta:
-  canonicalLink: ''
-  description: Tips til hjemmetræning
-  noindex: false
-  title: Tips til hjemmetræning
 ---
 For dig der ikke har tid til at deltage er her nogle øvelser du kan afprøve.
 

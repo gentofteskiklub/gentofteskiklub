@@ -1,11 +1,11 @@
 ---
 template: SinglePost
-title: Huskeliste til skiferien
+title: Huskelisten til skiferien
 status: Featured / Published
-date: '2020-03-27'
+date: '2019-03-27'
 featuredImage: 'https://ucarecdn.com/157877ea-a2cb-49b6-8130-768fbe1a60a7/'
 excerpt: >-
-  Huskeliste til din skiferie
+  Sådan glemmer du ikke noget på skiferien
 categories:
   - category: Skiferie Tips
 ---

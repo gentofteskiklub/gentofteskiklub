@@ -9,3 +9,4 @@ excerpt: >-
 categories:
   - category: Skiferie Tips
 ---
+Sådan står man ordenlig på ski - det kan være farligt at stå på ski

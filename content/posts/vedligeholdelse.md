@@ -1,13 +1,15 @@
 ---
 template: SinglePost
-title: Vedligeholdelse af dine ski
-status: Published
-date: '2020-06-27'
-featuredImage: 'https://ucarecdn.com/72a4f3c3-0b4e-44f5-b223-26bc658dea08/'
-excerpt: 'Vedligeholdelse af dine ski '
+title: Ski Vedligeholdelse af dine ski
+status: Featured / Published
+date: '2019-03-27'
+featuredImage: 'https://ucarecdn.com/157877ea-a2cb-49b6-8130-768fbe1a60a7/'
+excerpt: >-
+  sådan vedligeholder du dine ski
 categories:
   - category: Skiferie Tips
 ---
+Se med her omkring hvordan du klarer dine ski
 ![](https://ucarecdn.com/ae0dffd6-54fc-4f34-83c9-e8c9ba8f8e31/)
 
 ![](https://ucarecdn.com/92f0e3b8-a55f-44f5-b5fb-a61fc11cbcc5/)
