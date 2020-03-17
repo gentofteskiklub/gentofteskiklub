@@ -4,6 +4,9 @@ slug: skiliften
 title: Skiliften på Borrebakken
 featuredImage: >-
   https://ucarecdn.com/7c7afc31-de40-44a3-ae89-f266ca698305/-/crop/1732x1181/0,1128/-/preview/-/enhance/58/-/grayscale/
+address: 'Borrebakken Park, Lyngby'
+phone: +45 4032 6078
+email: gentofteskiklub@gmail.com
 meta:
   description: >
     I forbindelsen med skiliften og den forventede snevinter, der allerede
