@@ -7,6 +7,8 @@ featuredImage: 'https://ucarecdn.com/b55bf3c6-55fb-4ec3-9378-ce51d34233c4/'
 ## Winsurfing Træning
 Hvert forår fra maj til sommerferien er det muligt at få begyndertræning i Gentofte Skiklub.
 
+[Følg med her](/post-categories/windsurfing/)
+
 Formål med træningen er at lære at rigge surferen til, hale sejl op på vand og surfe, skære op mod vind og falde af, stagvende med surfer samt eventuel lære at strandstarte.
 Paragraphs are separated by a blank line.
 

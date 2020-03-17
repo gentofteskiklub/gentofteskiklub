@@ -57,6 +57,14 @@ I forbindelsen med skiliften og den forventede snevinter, der allerede banker p�
 ## Skirejser
 [Se seneste rejser](/post-categories/skirejser/).
 
+## Ski-licens
+Ski konkurrence forsikring
+
+Dette er dokumentation for at være medlem af en dansk skiklub tilsluttet DSKIF. Dette medbringes ved konkurrencer (som alpin cup), træningssamlinger, kurser arrangeret af kredsen og DSKIF.
+
+Desuden tjener skilicensen som ansvarsforsikring for licenshaveren. Den dækker 5 mill. ved personskade og 2 mill. ved skade på ting og dyr. Men har man en familie eller indboforsikring dækker denne.
+
+
 ## Langrendsløjber i omegnen
 ### Grib Skov
 Det lægges løjper ud, når der er sne.

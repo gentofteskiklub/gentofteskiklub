@@ -10,6 +10,8 @@ meta:
 
  ## Kom i form til skiferien bliv pisternes konge
 
+[Se sneeste omkring træning i Gentofte Skiklub](/post-categories/ski-gymnastik/)
+
 Mandag kl. 18-19 på Kildegårdsskolen,
 
 Kildegårdsvej 87, 2900 Hellerup
