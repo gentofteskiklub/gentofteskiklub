@@ -2,6 +2,6 @@
 template: BlogIndex
 title: Skiliften
 subtitle: ''
-featuredImage: 'https://ucarecdn.com/83a3c73d-f234-4086-9fad-cee3a9626230/'
+featuredImage: 'https://ucarecdn.com/5f62347f-c49f-4b06-bab1-46e49d262c7e/'
 ---
 
