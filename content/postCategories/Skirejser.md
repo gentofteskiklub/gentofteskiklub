@@ -2,6 +2,6 @@
 template: BlogIndex
 title: Skirejser
 subtitle: ''
-featuredImage: 'https://ucarecdn.com/83a3c73d-f234-4086-9fad-cee3a9626230/'
+featuredImage: 'https://ucarecdn.com/ba9145c9-9d68-4b3b-8d49-54aa52fc929d/'
 ---
 
