@@ -5,7 +5,9 @@ status: Published
 date: '2018-05-25'
 featuredImage: 'https://ucarecdn.com/bd5d1edc-73be-488a-9d50-8ec28f5ab6a9/'
 excerpt: >-
- Deltag i de mange træningsture, der bliver arrangeret for alle skiklubberne. Der er både week-end- og ugeture med træning af danske skiinstruktører.. Der er gode muligheder for at møde ligestillede. Se oversigt ski-rejser.
+  Deltag i de mange træningsture, der bliver arrangeret for alle skiklubberne.
+  Der er både week-end- og ugeture med træning af danske skiinstruktører.. Der
+  er gode muligheder for at møde ligestillede. Se oversigt ski-rejser.
 categories:
   - category: Skirejser
 ---
