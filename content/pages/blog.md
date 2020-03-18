@@ -1,10 +1,11 @@
 ---
 template: BlogIndex
 slug: blog
-title: Blog Page
-featuredImage: 'https://ucarecdn.com/b6254577-26bf-4b79-aa9b-f3793e2aebdc/'
-subtitle: This is the blog page subtitle.
+title: 'Blog '
+featuredImage: 'https://ucarecdn.com/03d89118-59ac-4efb-8c57-288c58d823d6/'
+subtitle: Nyheder fra Gentofte Skiklub
 meta:
   description: This is a meta description.
   title: Blog Page
 ---
+
