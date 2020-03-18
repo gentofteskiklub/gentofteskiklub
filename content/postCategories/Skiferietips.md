@@ -2,6 +2,6 @@
 template: BlogIndex
 title: Skiferie Tips
 subtitle: ''
-featuredImage: 'https://ucarecdn.com/83a3c73d-f234-4086-9fad-cee3a9626230/'
+featuredImage: 'https://ucarecdn.com/0de98c23-34ed-4017-8463-945d074cebe2/'
 ---
 
