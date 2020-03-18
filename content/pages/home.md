@@ -34,7 +34,7 @@ Indmeldelsesgebyr er kr. 100, for to eller flere er gebyret kr.200 Dette er eksk
 
 Gennem Gentofte Skiklub har du mulighed for at gå til skigymnastik en gang om ugen. Her vil vi sammen bygge en god grundform op. Du kan selv gøre meget for at undgå skader, men der er selvfølgelig ingen garanti for at der ikke er en anden som “torpederer” dig el.lign.
 
-[Vil du træne med?](/content/infoPages/post-categories/ski-gymnastik/).
+[Vil du træne med?](/post-categories/ski-gymnastik/).
 
 ## Ski-instruktør/ski-lærer
 
