@@ -10,10 +10,4 @@ categories:
 ---
 Det er vigtigt du tester dine bindinger inden man står ud første dagen
 
-![](https://ucarecdn.com/000a4dfe-b754-4b07-a9cc-387c71c0d1cd/)
-
-![](https://ucarecdn.com/744ed7b1-32bd-499b-b665-078d8814ccf1/)
-
-![](https://ucarecdn.com/a617a6e9-05c0-4146-86ee-55f7ee2109eb/)
-
-![](https://ucarecdn.com/579b0654-4865-4a7a-87f4-dbe2729bb6f2/)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/edLDfoT1Fus" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
