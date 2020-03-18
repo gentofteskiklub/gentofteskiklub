@@ -2,6 +2,6 @@
 template: BlogIndex
 title: Windsurfing
 subtitle: ''
-featuredImage: 'https://ucarecdn.com/83a3c73d-f234-4086-9fad-cee3a9626230/'
+featuredImage: 'https://ucarecdn.com/0cb81fbf-8aa0-4aeb-b718-4f39b7d57f10/'
 ---
 
