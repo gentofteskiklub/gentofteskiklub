@@ -3,9 +3,8 @@ template: SinglePost
 title: Vedligeholdelse af dine ski
 status: Featured / Published
 date: '2019-03-27'
-featuredImage: 'https://ucarecdn.com/157877ea-a2cb-49b6-8130-768fbe1a60a7/'
-excerpt: >-
-  sådan vedligeholder du dine ski
+featuredImage: 'https://ucarecdn.com/ed32d048-c71b-4d28-b60e-eda8acacb403/'
+excerpt: sådan vedligeholder du dine ski
 categories:
   - category: Skiferie Tips
 ---
