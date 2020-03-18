@@ -3,10 +3,12 @@ template: SinglePost
 title: Trysil
 status: Featured / Published
 date: '2014-06-18'
-featuredImage: >-
-  https://ucarecdn.com/f540281a-41cf-4bfa-8181-b172e2655fba/-/crop/1632x1777/0,672/-/preview/
+featuredImage: 'https://ucarecdn.com/da3c0cb2-c264-46cb-8298-f262b259b152/'
 excerpt: >-
-  Med DFDS og DSKIF til Trysil, hvor prisen dækker transport, ophold i hytter på Fageråsen (fra 4 til 40 personers hytter). Slutrengøring incl. I hytterne forefindes TV, sauna, pejs, opvaskemaskine, ovn og mikroovn, div. engøringsmidler og toiletpapir.
+  Med DFDS og DSKIF til Trysil, hvor prisen dækker transport, ophold i hytter på
+  Fageråsen (fra 4 til 40 personers hytter). Slutrengøring incl. I hytterne
+  forefindes TV, sauna, pejs, opvaskemaskine, ovn og mikroovn, div.
+  engøringsmidler og toiletpapir.
 categories:
   - category: Skirejser
 ---
