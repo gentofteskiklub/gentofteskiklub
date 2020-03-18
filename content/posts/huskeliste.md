@@ -3,9 +3,8 @@ template: SinglePost
 title: Huskelisten til skiferien
 status: Featured / Published
 date: '2019-03-27'
-featuredImage: 'https://ucarecdn.com/157877ea-a2cb-49b6-8130-768fbe1a60a7/'
-excerpt: >-
-  Sådan glemmer du ikke noget på skiferien
+featuredImage: 'https://ucarecdn.com/10d86e9c-ebb5-4f62-a121-1fb9fe7d836f/'
+excerpt: Sådan glemmer du ikke noget på skiferien
 categories:
   - category: Skiferie Tips
 ---
