@@ -3,9 +3,8 @@ template: SinglePost
 title: Ski Bindingtesten
 status: Featured / Published
 date: '2019-03-27'
-featuredImage: 'https://ucarecdn.com/157877ea-a2cb-49b6-8130-768fbe1a60a7/'
-excerpt: >-
-  Sådan tester du dine bindinger
+featuredImage: 'https://ucarecdn.com/cf83397a-5abf-4b27-b569-ff844f3f9fa9/'
+excerpt: Sådan tester du dine bindinger
 categories:
   - category: Skiferie Tips
 ---
