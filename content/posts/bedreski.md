@@ -3,7 +3,7 @@ template: SinglePost
 title: Bliv bedre på Ski
 status: Published
 date: '2018-05-25'
-featuredImage: 'https://ucarecdn.com/bd5d1edc-73be-488a-9d50-8ec28f5ab6a9/'
+featuredImage: 'https://ucarecdn.com/5d41dd17-0a43-4882-a4d0-26f0d9e3ffb8/'
 excerpt: >-
   Deltag i de mange træningsture, der bliver arrangeret for alle skiklubberne.
   Der er både week-end- og ugeture med træning af danske skiinstruktører.. Der
