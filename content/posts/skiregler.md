@@ -3,7 +3,7 @@ template: SinglePost
 title: Ski Regler
 status: Featured / Published
 date: '2019-03-27'
-featuredImage: 'https://ucarecdn.com/a1fc2221-f9fc-4da4-b918-4a3d2a55908d/'
+featuredImage: 'https://ucarecdn.com/17c06a0c-6366-41b6-8bfb-2bdbf3967d1c/'
 excerpt: Regler for skiløb
 categories:
   - category: Skiferie Tips
