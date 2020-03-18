@@ -1,10 +1,12 @@
 ---
 template: SinglePost
-title: Freestyle camp Tigne i påsken 
+title: Freestyle camp Tigne i påsken
 status: Published
 date: '2016-01-07'
-featuredImage: 'https://ucarecdn.com/57002902-e8b3-4315-9995-beb637b29128/'
-excerpt: Pukkel DM er traditionens tro fredag i påske uge, hvor alle har haft mulighed for at træne hele ugen.
+featuredImage: 'https://ucarecdn.com/56c7f6d3-0d8f-42ec-be2e-089b0950d130/'
+excerpt: >-
+  Pukkel DM er traditionens tro fredag i påske uge, hvor alle har haft mulighed
+  for at træne hele ugen.
 categories:
   - category: Skirejser
 ---
