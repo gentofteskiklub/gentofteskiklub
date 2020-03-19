@@ -105,7 +105,7 @@ class Form extends Component {
         }}
         action={this.state.action}
         onSubmit={this.handleSubmit}
-        data-netlify='true'
+        data-netlify=''
         data-netlify-honeypot='_gotcha'
       >
         {this.state.alert && (
@@ -176,7 +176,7 @@ class Form extends Component {
           value='Send'
           disabled={this.state.disabled ? 'disabled' : ''}
         >
-          Send besked
+          Enquire
         </button>
       </form>
     )
