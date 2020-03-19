@@ -9,7 +9,7 @@ phone: +45 4032 6078
 email: gentofteskiklub@gmail.com
 locations:
   - lat: '55.7397463'
-    lng: '2.5481905'
+    lng: '12.5481905'
     mapLink: 'https://goo.gl/maps/CMQTaoRcQgpput9E8'
 meta:
   description: This is a meta description.
