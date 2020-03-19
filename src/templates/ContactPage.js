@@ -4,7 +4,6 @@ import { graphql } from 'gatsby'
 
 import PageHeader from '../components/PageHeader'
 import FormSimpleAjax from '../components/FormSimpleAjax'
-import FormSimple from '../components/FormSimple'
 import Content from '../components/Content'
 import GoogleMap from '../components/GoogleMap'
 import Layout from '../components/Layout'
@@ -35,7 +34,7 @@ export const ContactPageTemplate = ({
             {address && (
               <a
                 className="Contact--Details--Item"
-                href={`https://www.google.com.au/maps/search/${encodeURI(
+                href={`https://www.google.com/maps/search/${encodeURI(
                   address
                 )}`}
                 target="_blank"
@@ -58,11 +57,10 @@ export const ContactPageTemplate = ({
         </div>
 
         <div>
-          <FormSimple name="Contact" />
+          <FormSimpleAjax name="Contact" />
         </div>
       </div>
     </section>
-
     <GoogleMap locations={locations} />
   </main>
 )
