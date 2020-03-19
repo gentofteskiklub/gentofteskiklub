@@ -54,14 +54,14 @@ export const ContactPageTemplate = ({
               </a>
             )}
           </div>
-        </div>
-
+        </div> 
         <div>
           <FormSimpleAjax name="Contact" />
-        </div>
+        </div> 
+              
       </div>
     </section>
-    <GoogleMap locations={locations} />
+    {/* <GoogleMap locations={locations} /> */}
   </main>
 )
 
