@@ -17,7 +17,7 @@ class Form extends React.Component {
 
   state = {
     alert: '',
-    disabled: true
+    disabled: false
   }
 
   handleSubmit = e => {

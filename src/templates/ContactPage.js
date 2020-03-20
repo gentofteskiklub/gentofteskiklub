@@ -8,6 +8,7 @@ import Content from '../components/Content'
 import GoogleMap from '../components/GoogleMap'
 import Layout from '../components/Layout'
 import './ContactPage.css'
+import FormControlled from '../components/FormControlled'
 
 // Export Template for use in CMS preview
 export const ContactPageTemplate = ({
@@ -58,7 +59,9 @@ export const ContactPageTemplate = ({
         <div>
           <FormSimpleAjax name="Contact" />
         </div> 
-              
+        <div>
+        <FormControlled name="Test" />
+          </div>      
       </div>
     </section>
     {/* <GoogleMap locations={locations} /> */}

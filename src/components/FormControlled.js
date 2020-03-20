@@ -16,7 +16,7 @@ class Form extends Component {
     email: '',
     message: '',
     subject: `New Submission from ${this.props.siteTitle}!`,
-    _gotcha: '',
+    _gotcha: 'bot-field',
     disabled: false,
     alert: '',
     action: '/contact/',
@@ -105,7 +105,7 @@ class Form extends Component {
         }}
         action={this.state.action}
         onSubmit={this.handleSubmit}
-        data-netlify=''
+        data-netlify='true'
         data-netlify-honeypot='_gotcha'
       >
         {this.state.alert && (
