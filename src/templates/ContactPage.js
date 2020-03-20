@@ -24,7 +24,7 @@ export const ContactPageTemplate = ({
   <main className="Contact">
     <PageHeader
       title={title}
-      subtitle={subtitle}
+      subtitle={subtitle}Gat
       backgroundImage={featuredImage}
     />
     <section className="section Contact--Section1">
@@ -58,10 +58,8 @@ export const ContactPageTemplate = ({
         </div> 
         <div>
           <FormSimpleAjax name="Contact" />
-        </div> 
-        <div>
-        <FormControlled name="Test" />
-          </div>      
+          <FormControlled name="Test" />
+        </div>     
       </div>
     </section>
     {/* <GoogleMap locations={locations} /> */}
