@@ -113,7 +113,7 @@ class Form extends Component {
         )}
         <label className='Form--Label'>
           <input
-            className='Form--Input'
+            className='Form--Input Form--InputText'
             value={this.state.name}
             onChange={this.handleChange}
             type='text'
