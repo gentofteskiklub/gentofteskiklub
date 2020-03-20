@@ -56,8 +56,7 @@ export const ContactPageTemplate = ({
           </div>
         </div> 
         <div>
-          <FormSimpleAjax name="Contact" />
-          <form name="contact" method="POST" data-netlify="true">
+          <form name="TestForm" method="POST" data-netlify="true">
   <p>
     <label>Your Name: <input type="text" name="name" /></label>   
   </p>
