@@ -9,6 +9,7 @@ import Layout from '../components/Layout'
 import './ContactPage.css'
 
 
+
 // Export Template for use in CMS preview
 export const ContactPageTemplate = ({
   body,
@@ -59,25 +60,84 @@ export const ContactPageTemplate = ({
         <form name="contact" method="post" data-netlify="true" data-netlify-honeypot="bot-field">
    {/* You still need to add the hidden input with the form name to your JSX form */}
    <input type="hidden" name="form-name" value="contact" />
-  <p>
-    <label>Your Name: <input type="text" name="name" /></label>   
-  </p>
-  <p>
-    <label>Your Email: <input type="email" name="email" /></label>
-  </p>
-  <p>
-    <label>Your Role: <select name="role[]" multiple>
-      <option value="leader">Leader</option>
-      <option value="follower">Follower</option>
-    </select></label>
-  </p>
-  <p>
-    <label>Message: <textarea name="message"></textarea></label>
-  </p>
-  <p>
-    <button type="submit">Send</button>
-  </p>
-</form>
+   <div className="Form--Group">
+            <label className="Form--Label">
+              <input
+                className="Form--Input Form--InputText"
+                type="text"
+                placeholder="Fornavn"
+                name="firstname"
+                required
+              />
+              <span>Fornavn</span>
+            </label>
+            <label className="Form--Label">
+              <input
+                className="Form--Input Form--InputText"
+                type="text"
+                placeholder="Efternavn"
+                name="Efternavn"
+                required
+              />
+              <span>Efternavn</span>
+            </label>
+          </div>
+          <label className="Form--Label">
+            <input
+              className="Form--Input Form--InputText"
+              type="email"
+              placeholder="Email"
+              name="emailAddress"
+              required
+            />
+            <span>Email addresse</span>
+          </label>
+          <label className="Form--Label has-arrow">
+            <select
+              className="Form--Input Form--Select"
+              name="type"
+              defaultValue="Type of Enquiry"
+              required
+            >
+              <option disabled hidden>
+                Emne
+              </option>
+              <option>Indmeldelse</option>
+              <option>Ski-Gymnastik</option>
+              <option>Træning winsurfing</option>
+              <option>Ski-rejser</option>
+              <option>Skiliften</option>
+              <option>Andet</option>
+            </select>
+          </label>
+          <label className="Form--Label">
+            <textarea
+              className="Form--Input Form--Textarea Form--InputText"
+              placeholder="Message"
+              name="message"
+              rows="10"
+              required
+            />
+            <span>Beksed</span>
+          </label>
+          <label className="Form--Label Form-Checkbox">
+            <input
+              className="Form--Input Form--Textarea Form--CheckboxInput"
+              name="newsletter"
+              type="checkbox"
+            />
+            <span>Få nyhedbreve fra skiklubben</span>
+          </label>
+          <div
+            className="g-recaptcha"
+            data-sitekey="6Ld9JuIUAAAAANO_EyUK9qReD1z6a3xcbk-VULaZ"
+          />
+          <input
+            className="Button Form--SubmitButton"
+            type="submit"
+            value="Send Besked"
+          />
+        </form>
         </div>     
       </div>
     </section>
