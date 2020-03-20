@@ -7,9 +7,9 @@ import './Form.css'
 
 class Form extends React.Component {
   static defaultProps = {
-    name: 'Contact',
+    name: 'Test',
     subject: '', // optional subject of the notification email
-    action: '/contact/',
+    action: '',
     successMessage: 'Tak for din henvendelse',
     errorMessage:
       'Hov der var et problem'
@@ -67,7 +67,7 @@ class Form extends React.Component {
           action={action}
           onSubmit={this.handleSubmit}
           data-netlify="true"
-          netlify-recaptcha="true"
+          netlify-recaptcha="faslse"
         >
           {this.state.alert && (
             <div className="Form--Alert">{this.state.alert}</div>
@@ -141,8 +141,8 @@ class Form extends React.Component {
             <span>Få nyhedbreve fra skiklubben</span>
           </label>
           <div
-            className="g-recaptcha"
-            data-sitekey="6Ld9JuIUAAAAANO_EyUK9qReD1z6a3xcbk-VULaZ"
+            //className="g-recaptcha"
+            //data-sitekey="6Ld9JuIUAAAAANO_EyUK9qReD1z6a3xcbk-VULaZ"
           />
           {!!subject && <input type="hidden" name="subject" value={subject} />}
           <input type="hidden" name="form-name" value={name} />

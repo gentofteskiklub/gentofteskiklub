@@ -19,7 +19,7 @@ class Form extends Component {
     _gotcha: 'bot-field',
     disabled: false,
     alert: '',
-    action: '/contact/',
+    action: '',
     'form-name': this.props.name
   }
 
