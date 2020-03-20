@@ -56,7 +56,7 @@ export const ContactPageTemplate = ({
           </div>
         </div> 
         <div>
-        <FormSimpleAjax name="GScontact" />
+        <FormSimpleAjax name="GS form" />
         </div>     
       </div>
     </section>

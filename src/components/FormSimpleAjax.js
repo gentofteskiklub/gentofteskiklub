@@ -68,7 +68,9 @@ class Form extends React.Component {
           onSubmit={this.handleSubmit}
           data-netlify="true"
           netlify-recaptcha="faslse"
+          data-netlify-honeypot="bot-field"
         >
+          <input type="hidden" name="bot-field" />
           {this.state.alert && (
             <div className="Form--Alert">{this.state.alert}</div>
           )}
