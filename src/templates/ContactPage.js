@@ -1,4 +1,5 @@
 import React from 'react'
+import { Fragment } from 'react'
 import { MapPin, Smartphone, Mail } from 'react-feather'
 import { graphql } from 'gatsby'
 import PageHeader from '../components/PageHeader'
@@ -7,8 +8,9 @@ import Content from '../components/Content'
 import GoogleMap from '../components/GoogleMap'
 import Layout from '../components/Layout'
 import './ContactPage.css'
-
-
+import Helmet from 'react-helmet'
+import { stringify } from 'qs'
+import { serialize } from 'dom-form-serializer'
 
 // Export Template for use in CMS preview
 export const ContactPageTemplate = ({
@@ -57,6 +59,10 @@ export const ContactPageTemplate = ({
           </div>
         </div> 
         <div>
+        <Fragment>
+        <Helmet>
+          <script src="https://www.google.com/recaptcha/api.js" />
+        </Helmet>
         <form name="contact" method="post" data-netlify="true" data-netlify-honeypot="bot-field">
    {/* You still need to add the hidden input with the form name to your JSX form */}
    <input type="hidden" name="form-name" value="contact" />
@@ -138,6 +144,7 @@ export const ContactPageTemplate = ({
             value="Send Besked"
           />
         </form>
+        </Fragment>
         </div>     
       </div>
     </section>
