@@ -1,16 +1,15 @@
 ---
 template: DefaultPage
 slug: gymnastik
-title: Ski Gynastik
+title: Ski Gymnastik
 featuredImage: 'https://ucarecdn.com/acbff77f-0717-49f7-9dd1-39539f157ecf/'
 meta:
   description: Græsski i gentofte skiklub
   title: Græsski i gentofte skiklub
 ---
+## Kom i form til skiferien bliv pisternes konge
 
- ## Kom i form til skiferien bliv pisternes konge
-
-[Se sneeste omkring træning i Gentofte Skiklub](/post-categories/ski-gymnastik/)
+[Se seneste omkring træning i Gentofte Skiklub](/post-categories/ski-gymnastik/)
 
 Mandag kl. 18-19 på Kildegårdsskolen,
 
