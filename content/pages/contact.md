@@ -3,9 +3,9 @@ template: ContactPage
 slug: contact
 title: Kontakt os
 featuredImage: 'https://ucarecdn.com/2c284a07-9c8c-418d-a187-b57798490f3d/'
-subtitle: Kontakt os hvad endten det er indmeldse eller omkring aktiviteter
+subtitle: Kontakt os hvad enten det er indmeldelse eller omkring aktiviteter
 address: 'Grumstrupsvej 27, Hellerup'
-phone: +45 4032 6078
+phone: +45 39655591
 email: gentofteskiklub@gmail.com
 locations:
   - lat: '55.7397463'
