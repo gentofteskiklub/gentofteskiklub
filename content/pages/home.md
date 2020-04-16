@@ -5,7 +5,7 @@ title: Gentofte Skiklub
 featuredImage: 'https://ucarecdn.com/7b3aaff7-38e2-4e57-ab2c-7f2c9ead8083/'
 subtitle: >-
   har til formål at fremme interessen for skisport: alpint, langrend, snowboard
-  og telemarksk og windsurfing. Vinteraktiviteter er primært skigymnastik,
+  og telemarkski og windsurfing. Vinteraktiviteter er primært skigymnastik,
   snearrangementer i Gentofte og omegn, samt film og orienteringsaften
 meta:
   description: >-
@@ -63,12 +63,12 @@ I forbindelsen med skiliften og den forventede snevinter, der allerede banker p�
 [Se seneste rejser](/post-categories/skirejser/).
 
 ## Ski-licens
+
 Ski konkurrence forsikring
 
 Dette er dokumentation for at være medlem af en dansk skiklub tilsluttet DSKIF. Dette medbringes ved konkurrencer (som alpin cup), træningssamlinger, kurser arrangeret af kredsen og DSKIF.
 
 Desuden tjener skilicensen som ansvarsforsikring for licenshaveren. Den dækker 5 mill. ved personskade og 2 mill. ved skade på ting og dyr. Men har man en familie eller indboforsikring dækker denne.
-
 
 ## Langrendsløjber i omegnen
 
