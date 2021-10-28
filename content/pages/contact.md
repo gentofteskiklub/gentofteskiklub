@@ -15,16 +15,15 @@ meta:
   description: This is a meta description.
   title: Contact Page
 ---
-
 # Kontingent årligt
 
-- kr. 250,- Juniorer til og med 18 år     
-- kr. 350,- Seniorer over 18 år 
-- kr. 700,- Husstandskontingent 
-- kr. 150,- Skigymnastik per person
+* kr. 250,- Juniorer til og med 18 år     
+* kr. 400,- Seniorer over 18 år 
+* kr. 800,- Husstandskontingent 
+* kr. 400,- Skigymnastik per person
 
 Indmeldelsesgebyr er kr. 100, for to eller flere er gebyret kr.200
 
-Dette er eksklusiv ski-gymnastik som koster 150, kr. per person.
+Dette er eksklusiv ski-gymnastik som koster 400, kr. per person.
 
 Kurser uddannelse: Henvendelse Flemming Anning tlf. +45 40538742
