@@ -40,7 +40,7 @@ Oversigt ski-gymnastikdage: Mandag kl. 18-19 på Kildegårdsskolen, Kildegårsve
 | M﻿ar  | 1﻿1 | 1﻿3 |              |               |        |
 | M﻿ar  | 1﻿2 | 2﻿0 |              |               |        |
 | M﻿ar  | 1﻿3 | 2﻿7 |              |               |        |
-|       |     |     |              |               |        |
-|       |     |     |              |               |        |
-|       |     |     |              |               |        |
-|       |     |     |              |               |        |
+| A﻿pr  | 1﻿4 | 3﻿  | N﻿ej         | P﻿åske        |        |
+| A﻿pr  | 1﻿5 | 1﻿0 | N﻿ej         | P﻿åske        |        |
+| A﻿pr  | 1﻿6 | 1﻿7 |              |               |        |
+| A﻿pr  | 1﻿7 | 2﻿4 |              |               |        |
