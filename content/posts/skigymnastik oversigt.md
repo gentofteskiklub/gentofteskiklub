@@ -19,10 +19,10 @@ Oversigt ski-gymnastikdage: Mandag kl. 18-19 på Kildegårdsskolen, Kildegårsve
 | O﻿kt  | 42  | 16  | Nej          | Efterårsferie |        |
 | Okt   | 43  | 2﻿3 |              |               |        |
 | Okt   | 44  | 3﻿0 |              |               |        |
-|       |     |     |              |               |        |
-|       |     |     |              |               |        |
-|       |     |     |              |               |        |
-|       |     |     |              |               |        |
+| N﻿ov  | 4﻿5 | 6﻿  |              |               |        |
+| N﻿ov  | 4﻿6 | 1﻿3 |              |               |        |
+| N﻿ov  | 4﻿7 | 2﻿0 |              |               |        |
+| N﻿ov  | 4﻿8 | 2﻿7 |              |               |        |
 |       |     |     |              |               |        |
 |       |     |     |              |               |        |
 |       |     |     |              |               |        |
