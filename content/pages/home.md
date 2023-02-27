@@ -24,7 +24,6 @@ Du er altid velkommen til at stille spørgsmål til : gentofteskiklub@gmail.com
 * kr. 400,- Seniorer over 18 år 
 * kr. 800,- Husstandskontingent 
 * kr. 400,- Skigymnastik per person
-* tilbud 
 
 Indmeldelsesgebyr er kr. 100, for to eller flere er gebyret kr.200 Dette er eksklusiv ski-gymnastik som koster 400, kr. per person.
 
