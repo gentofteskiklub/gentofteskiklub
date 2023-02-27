@@ -1,17 +1,16 @@
 ---
 template: HomePage
-slug: ''
+slug: ""
 title: Gentofte Skiklub
-featuredImage: 'https://ucarecdn.com/7b3aaff7-38e2-4e57-ab2c-7f2c9ead8083/'
-subtitle: >-
-  har til formål at fremme interessen for skisport: alpint, langrend, snowboard
-  og telemarkski og windsurfing. Vinteraktiviteter er primært skigymnastik,
-  snearrangementer i Gentofte og omegn, samt film og orienteringsaften
+featuredImage: https://ucarecdn.com/7b3aaff7-38e2-4e57-ab2c-7f2c9ead8083/
+subtitle: "har til formål at fremme interessen for skisport: alpint, langrend,
+  snowboard og telemarkski og windsurfing. Vinteraktiviteter er primært
+  skigymnastik, snearrangementer i Gentofte og omegn, samt film og
+  orienteringsaften"
 meta:
-  description: >-
-    Gentofte Skiklub har til formål at fremme interessen for skisport alpint,
-    langrend, snowboard og telemarksk og windsurfing. Vinteraktiviteter er
-    primært skigymnastik, snearrangementer i Gentofte og omegn, samt film og
+  description: Gentofte Skiklub har til formål at fremme interessen for skisport
+    alpint, langrend, snowboard og telemarksk og windsurfing. Vinteraktiviteter
+    er primært skigymnastik, snearrangementer i Gentofte og omegn, samt film og
     orienteringsaften.
   title: Gentofte Skikblub
 ---
@@ -25,6 +24,7 @@ Du er altid velkommen til at stille spørgsmål til : gentofteskiklub@gmail.com
 * kr. 400,- Seniorer over 18 år 
 * kr. 800,- Husstandskontingent 
 * kr. 400,- Skigymnastik per person
+* tilbud 
 
 Indmeldelsesgebyr er kr. 100, for to eller flere er gebyret kr.200 Dette er eksklusiv ski-gymnastik som koster 400, kr. per person.
 
